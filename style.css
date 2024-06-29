@@ -10,8 +10,8 @@ body{
     background-color: white;
     padding: 30px;
     border-radius: 5px;
-    box-shadow: none;
     width: 300px;
+    box-shadow: none;
 }
 h2{
     text-align: center;
@@ -50,4 +50,7 @@ a:hover{
 }
 #create{
     padding-left: 90px;
+}
+#haha{
+    padding-left: 135px;
 }
